@@ -1,0 +1,40 @@
+* {
+    text-align: center;
+}
+
+ol, ul, li, .notes{
+    text-align: left;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+
+.notes {
+    font-style: italic;
+}
+
+.recipe-link h2, .footer{
+    background-color: lightblue;
+    font-style: bold;
+    margin-left: 40%;
+    margin-right: 40%;
+    padding: 5px;
+    border: 5px;
+    border-color: black;
+}
+
+a:link, a:hover, a:active, a:visited {
+    text-decoration: none;
+    color: blue;
+}
+
+a:visited {
+    color: darkblue;
+}
+
+a:hover, a:active {
+    color: white;
+}
+
+
+
+
